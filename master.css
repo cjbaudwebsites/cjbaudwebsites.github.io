@@ -6,13 +6,17 @@ width:auto;
 }
 h1  {
 color: white;
+text-decoration-line:underline;
+text-decoration-style:solid;
+text-decoration-thickness:5px;
+
 
 }
 body {
 color: white;
 
 }
-img{
+img {
 max-height:100%;
 max-width:100;
 
