@@ -1,5 +1,5 @@
 body  {
-background-image: url("Pillar_edit.jpg");
+background-image: url("background_header.jpg");
 height:auto;
 width:auto;
 
@@ -10,6 +10,11 @@ text-decoration-line:underline;
 text-decoration-style:solid;
 text-decoration-thickness:5px;
 font-size:50px;
+text-align: center;
+}
+p{
+text-align: center;
+background-color:blue;
 }
 body {
 color: white;
@@ -24,6 +29,7 @@ border-color: black;
 table, th, td{
 border: 3px solid;
 color: black;
+background-color:blue;
 
 }
 .center{
@@ -42,4 +48,9 @@ color: white;
 }
 a:hover{
 color: blue;
+}
+#myheader{
+padding:40px;
+border:3px solid darkblue;
+
 }
